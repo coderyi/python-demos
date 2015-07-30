@@ -46,4 +46,4 @@ Passgen 可以根据使用者要求，输出包含英文字母、数字或符号
     passgen -t d -n 20 8
     passgen 20
 
-[[返回目录]](../readme.md)
+[[返回目录]](../README.md)
